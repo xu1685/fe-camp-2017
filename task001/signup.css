@@ -1,0 +1,19 @@
+body{
+background-color:#FFFF99;
+font-family: Cursive;
+font-weight: bold;
+}
+
+
+
+input{
+	border-radius: 6px;
+	background-color: #FFFFCC;
+	padding: 8px;
+	margin: 10px auto;
+
+}
+
+span{
+	margin-left: -20px;
+}

@@ -1,0 +1,41 @@
+body{
+	margin: 50px 30px 20px 30px;
+	font-family: Cursive;
+	background-image:url(20160419103135.jpg);
+	font-weight: bold;
+}
+
+#input1{
+	border-radius: 6px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#input2{
+	border-radius: 6px;
+	padding: 10px;
+	margin: 10px;
+}
+
+input
+{
+	background: #faebd7;
+
+}
+
+#submit{
+	border-radius: 8px;
+	width: 80px;
+	height: 40px;
+	font-family:Verdana,Arial;
+	background: #faebd7;
+	font-weight: bold;
+	font-size: 1.1em;
+
+
+}
+
+.signup{
+	margin: 20px auto;
+	font-family:Verdana;
+}
